@@ -1,29 +1,13 @@
-# todo
+## Pokedex
+This project is a simple todo list.
 
-## Project setup
-```
-npm install
-```
+## Technologies
+The project is created with:
+* Vue 2 
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+$ git clone https://github.com/alanneves/todos.git
+$ cd todos
+$ npm install
+$ npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
